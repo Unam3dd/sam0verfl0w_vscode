@@ -1,0 +1,21 @@
+{
+    "name": "sam0verflow",
+    "displayName": "sam0verflow",
+    "description": "sam0verflow themes",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "sam0verfl0w Themes",
+                "uiTheme": "vs-dark",
+                "path": "./themes/sam0verfl0w Themes-color-theme.json"
+            }
+        ]
+    }
+}
